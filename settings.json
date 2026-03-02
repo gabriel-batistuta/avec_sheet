@@ -1,0 +1,26 @@
+{
+    "last_date_updated": "27/03/2025",
+    "postgres": {
+        "server": "localhost",
+        "database": "avec_relatorio",
+        "username": "postgres",
+        "password": "1234",
+        "driver": "psqlodbcw.so"
+    },
+    "credentials": {
+        "email": "someemail18@gmail.com",
+        "password": "somepassword"
+    },
+    "excel_files": {
+        "Serviços": "https://docs.google.com/spreadsheets/d/someID",
+        "Campanhas": "https://docs.google.com/spreadsheets/d/someID",
+        "Financeiro": "https://docs.google.com/spreadsheets/d/someID",
+        "Profissionais": "https://docs.google.com/spreadsheets/d/18Ejo4z-6i9ywhwE5AHZt7JCnJbBOoRDneEYXlbF0hDw",
+        "Agenda": "https://docs.google.com/spreadsheets/d/someID",
+        "Produtos": "https://docs.google.com/spreadsheets/d/someID",
+        "Integração": "https://docs.google.com/spreadsheets/d/someID",
+        "Auditoria": "https://docs.google.com/spreadsheets/d/someID",
+        "Clientes": "https://docs.google.com/spreadsheets/d/someID",
+        "Caixas": "https://docs.google.com/spreadsheets/d/someID"
+    }
+}

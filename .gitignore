@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+planilhas/
+json_ordenado.json
+reports.json
+reports_lists.json
+.vscode/
+.github/
+tempCodeRunnerFile.py
+test.py
+# /assets/*
+!/assets/.gitkeep
+database-avec.json
+json/
+debug.log
+*.spec
+build/
+dist/
+node_modules/
+resources/
